@@ -8,12 +8,7 @@ public class Test {
         System.out.println("upload"); System.out.println("upload");
 
         System.out.println("upload"); System.out.println("upload");
-        System.out.println("upload"); System.out.println("upload");
-        System.out.println("upload"); System.out.println("upload");
 
-        System.out.println("upload"); System.out.println("upload");
-        System.out.println("upload"); System.out.println("upload");
-        System.out.println("upload"); System.out.println("upload");
 
 
     }
